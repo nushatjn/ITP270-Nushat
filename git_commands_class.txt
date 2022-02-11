@@ -1,0 +1,75 @@
+    1  pwd
+    2  ls
+    3  cd
+    4  clear
+    5  pwd
+    6  ls
+    7  clear
+    8  nano classOne.py
+    9  tar -xvf Python-3.10.2.tar.xz
+   10  ls
+   11  ./configure --with-ensurepip=install
+   12  sudo apt install build-essential
+   13  make
+   14  sudo make altinstall
+   15  clear
+   16  python3 --version
+   17  Python 3.10 --version
+   18  Python 3.10.2 --version
+   19  python3 --version
+   20  clear
+   21  sudo apt install synaptic -y
+   22  clear
+   23  ls
+   24  clear
+   25  pwd
+   26  nano classOne.py
+   27  cd Python-3.10.2
+   28  pwd 
+   29  ls
+   30  cd Python-3.10.2
+   31  cd Downloads
+   32  ls
+   33  cd Python-3.10.2
+   34  python3 classOne.py
+   35  nano classOne.pv
+   36  python3 classOne.py
+   37  clear
+   38  pwd
+   39  ls
+   40  cd Downloads
+   41  ls
+   42  ll
+   43  cd Python-3.10.2
+   44  nano classOne.py
+   45  python3 classOne.py
+   46  print ("Hello" + "World")
+   47  print ('Hello world')
+   48  nano classOne.py
+   49  python3 classOne.py
+   50  nano classOne.py
+   51  python3 classOne.py
+   52  nano classOne.py
+   53  python3 classOne.py
+   54  nano classOne.py
+   55  python3 classOne.py
+   56  pwd
+   57  ls
+   58  pwd downloads
+   59  clear
+   60  exit
+   61  cd ITP270-Nushat
+   62  git statis
+   63  git status
+   64  clear
+   65  git status
+   66  clear
+   67  git add -A
+   68  git status
+   69  git commit -m "Adding the file ITP270Lecture2.py"
+   70  git status
+   71  clear
+   72  git push 
+   73  git push
+   74  clear
+   75  git status
